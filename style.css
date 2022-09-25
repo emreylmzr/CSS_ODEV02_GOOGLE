@@ -1,0 +1,65 @@
+.centerlogo {
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+  }
+
+  #rectangle01 {
+    width:1210px;
+    height:60px;
+    background:#EEEEEB;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+   
+}
+#rectangle02 {
+  width: 446px;
+  height:76px;
+  background:#4FE5EC;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+ 
+}
+
+.divmargin{
+float: left;
+margin-top: 5px;
+
+}
+
+
+.centertext {
+    display: block;
+text-align: center;
+margin: auto;
+      }
+    
+      .floatbutton {
+float: left;
+margin-left: 41%;
+    margin-right: auto;
+    display: block;
+      }
+
+      .floatsquare {
+        float: left;
+        margin-left: auto;
+            margin-right: auto;
+            display: block;
+              }
+
+      span.b {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                padding: 5px;
+                border: 1px solid blue;
+                background-color: yellow;
+              }
+              
+             
